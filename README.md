@@ -32,7 +32,7 @@ data = pd.read_csv('Expanded_data_with_more_features.csv')
 # Data preprocessing steps
 data = data.dropna()  # Example: Dropping missing value
 
-## Insights from Analysis
+**## Insights from Analysis**
 
 Based on the analysis performed in the Jupyter Notebook `PROJECT_2_Student Marks Analysis.ipynb`, we have derived the following insights:
 
